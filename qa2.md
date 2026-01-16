@@ -298,5 +298,21 @@ That concludes our first tutorial on vi
 
 There might be more tutorials, on vi, in the future
 
+You might notice that, at one point in the dialogue, I say, "I think we need to take a break, and resume in a third Q&A"
+
+I ended up running over, and explaining the difference between Insert Mode and Command Mode
+
+One thing led to another, and I kept on finding more and more things that I wanted to talk about
+
+There is more to say about vi... there is a lot more material to cover... but I'm glad we discussed Insert Mode and Command Mode
+
+Now, I'm going to take a break from writing
+
+I enjoyed writing this document
+
+Vi is my favorite text editor, and it's really fun to talk about vi
+
+I hope you found this document instructive and engaging
+
 Thanks for reading,  
 Andrew
