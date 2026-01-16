@@ -298,5 +298,5 @@ That concludes our first tutorial on vi
 
 There might be more tutorials, on vi, in the future
 
-Thanks for reading,
+Thanks for reading,  
 Andrew
