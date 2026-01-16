@@ -106,4 +106,4 @@ A: I played StarCraft as a child.
 
 ** A decides to take a break, cook some food, and watch TV.
 
-<The End>
+\<The End\>
