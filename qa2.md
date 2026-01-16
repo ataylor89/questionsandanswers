@@ -100,6 +100,8 @@ Q: Okay.
 
 A: In our next Q&A, we'll talk about the two different modes that can be used in vi: Insert Mode and Command Mode.
 
+** Q is eager to learn about Insert Mode and Command Mode, and asks if they can start the third Q&A right away. A agrees. They begin.
+
 Q: What is Insert Mode?
 
 A: You use Insert Mode when you want to insert text and write source code.
